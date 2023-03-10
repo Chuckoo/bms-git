@@ -1,1 +1,1 @@
-dasmn
+print("hello world")
