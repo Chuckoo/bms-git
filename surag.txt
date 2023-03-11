@@ -1,6 +1,3 @@
 My name: Surag Y S
-fav food: dosa
 fav colour: black
-txt file
-read meg
 git new one
