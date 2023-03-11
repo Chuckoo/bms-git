@@ -1,0 +1,1 @@
+Usage: git config -global user,name "[Harsh21882]"
