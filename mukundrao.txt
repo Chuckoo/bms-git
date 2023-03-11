@@ -5,3 +5,5 @@ Favourite Fruit : Watermelon
 Favourite Vegetable : Babycorn
 Favourite TV series : The Family Man
 Favourite Childhood Story : Jataka Tales
+Favourite sauce : Red Pasta Sauce
+Favourite Colour : Blue
