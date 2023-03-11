@@ -1,3 +1,4 @@
 name:sumukha s n
 fav food:masala dosa
 fav sport:football
+college:bmsce
