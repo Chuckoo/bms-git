@@ -1,8 +1,6 @@
-My name: Surag Y S
-fav colour: black
-git new one
-hii vivek sir
-hello
-
-
-
+!!!
+Hello Vivek Bro 
+You are a nice mentor
+I feel i learnt something about git
+Thank you 
+!!!
